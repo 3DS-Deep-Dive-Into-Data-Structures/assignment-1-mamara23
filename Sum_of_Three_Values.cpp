@@ -28,6 +28,7 @@ int main(){
         k--;
       }
     }
+       if(flag==1) break;
    }
    if(flag==0){
    cout<<"IMPOSSIBLE";
